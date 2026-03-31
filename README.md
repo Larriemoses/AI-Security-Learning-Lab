@@ -1,4 +1,4 @@
-# 🚀 AWS AI, Security & Engineering Documentation Hub  
+# AI-Security-Learning-Lab
 ### By Olarewaju Adebulu  
 
 ---
@@ -59,21 +59,21 @@ This is a **system-level breakdown of intelligent systems and their security imp
 ```
 aws-ai-security-engineering/
 │
-├── ai-fundamentals/
-│ ├── Day-01-Fundamentals.md
-│ ├── Day-02-...
+├── 01_Foundations
+│ ├── AI_Foundamentals.md (Foundations of Artificial Intelligence, Machine Learning, and Generative AI)
+│ ├── (coming soon...)
 │
-├── ai-security/
+├── 02_AI_Risks
 │ ├── prompt-injection.md
 │ ├── ai-threat-modeling.md
 │
-├── cybersecurity/
+├── 03_AI_Security|Cybersecurity/
 │ ├── soc-foundations.md
 │ ├── detection-strategies.md
 │
-├── cloud-aws/
-│ ├── aws-ai-services.md
-│ ├── inference-architecture.md
+├── 05_Projects
+│ ├── (coming soon...)
+│ ├── (coming soon...)
 │
 └── README.md
 ```
