@@ -1,6 +1,6 @@
-# 📘 Day 02 — Generative Models, Training Methods & Learning Paradigms  
+# 📘 Day 02: Generative Models, Training Methods & Learning Paradigms  
 
-**Date:** April 02, 2026  
+**Date:** April 01, 2026  
 **Track:** AWS AI Practitioner  
 **Focus:** Generative Models, Model Training (Pre-training, RLHF), and Learning Types  
 
