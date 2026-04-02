@@ -239,7 +239,7 @@ AI systems must be treated as **both tools and attack surfaces**.
 
 This session clarified how generative systems are structured and trained.
 
-Understanding the differences between architectures and training methods provided a clearer picture of how modern AI systems—especially LLMs—are built and refined.
+Understanding the differences between architectures and training methods provided a clearer picture of how modern AI systems, especially LLMs, are built and refined.
 
 The introduction of RAG highlighted the importance of grounding models in external knowledge for reliability.
 
@@ -247,6 +247,4 @@ The introduction of RAG highlighted the importance of grounding models in extern
 
 ## 🚀 Next Focus
 
-* Transformer architecture (attention mechanisms)
-* Tokenization in LLMs
-* AWS AI services (Bedrock, SageMaker)
+* Exploring Artificial Intelligence Use Cases and Applications
